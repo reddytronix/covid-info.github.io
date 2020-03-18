@@ -18,10 +18,9 @@ title: India
 <h2><b>Embassy of India Hotline (Coronavirus): (030) 2579 5303</b> </h2>
 Email: mincons.berlin@mea.gov.in
 
-<h2><b>India Covid19 Dashbiard</b> </h2>
+<h2><b>India Covid19 Dashboard</b> </h2>
 
-<a href="https://covidout.in">
-<div class="color-button"> Open Dashboard</div></a>
+<a href="https://covidout.in"><div class="color-button">Open Dashboard</div></a>
 
 <h2><b>Bureau of Immigration helpline: Query about Visa and travel restrictions</b> </h2>
 <img class="" src="../images/boi-advisory.jpg" />
@@ -51,7 +50,7 @@ Email: mincons.berlin@mea.gov.in
 <ul>
 	<li>
 		<b>Embassy of India, Berlin</b>
-		<a href="https://indianembassyberlin.gov.inn"><div class="color-button">Website</div></a>
+		<a href="https://indianembassyberlin.gov.in"><div class="color-button">Website</div></a>
 		<a href="https://www.facebook.com/pg/IndiaInGermany/"><div class="color-button">Facebook</div></a>
 		<a href="https://twitter.com/eoiberlin"><div class="color-button">Twitter</div></a>
 	</li><br>
