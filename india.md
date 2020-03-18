@@ -20,7 +20,7 @@ Email: mincons.berlin@mea.gov.in
 
 <h2><b>India Covid19 Dashboard</b> </h2>
 
-<a href="https://covidout.in"><div class="color-button">Open Dashboard</div></a>
+<a href="https://covidout.in"><b>Open Dashboard</b></a>
 
 <h2><b>Bureau of Immigration helpline: Query about Visa and travel restrictions</b> </h2>
 <img class="" src="../images/boi-advisory.jpg" />
