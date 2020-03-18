@@ -18,6 +18,8 @@ title: India
 <h2><b>Embassy of India Hotline (Coronavirus): (030) 2579 5303</b> </h2>
 Email: mincons.berlin@mea.gov.in
 
+<h2><b>Bureau of Immigration helpline: Query about Visa and travel restrictions</b> </h2>
+<img class="" src="../images/boi-advisory.jpg" />
 
 <h2><b>MEA India’s helplines</b> </h2>
 <img class="" src="../images/mea.jpg" />
