@@ -4,6 +4,17 @@ permalink: /india/
 title: India
 ---
 
+<h2><b>Message from Embassy of India, Berlin</b> </h2>
+
+
+> Indian Nationals in Germany who are in an emergency situation and need to return to India immediately may pls send your details by filling this form (by 1300 hrs CET on March 18)
+>
+>[http://bit.ly/3a1HBf1 link](http://bit.ly/3a1HBf1)
+> 
+>
+> Please be aware that EU has imposed temporary travel bans for incoming non-EU travelers with immediate effect.
+
+<br>
 <h2><b>Embassy of India Hotline (Coronavirus): (030) 2579 5303</b> </h2>
 Email: mincons.berlin@mea.gov.in
 
@@ -13,9 +24,6 @@ Email: mincons.berlin@mea.gov.in
 
 <h2><b>Consular Service Advisory</b> </h2>
 <img class="" src="../images/consular-advisory.jpg" />
-
-<h2><b>Indian Association Helpline</b> </h2>
-<img class="" src="../images/indian-association-helpline.png" />
 
 <h2><b>Important travel advisories</b></h2>
 <ul>

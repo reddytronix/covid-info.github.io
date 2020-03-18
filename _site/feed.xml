@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Covid-19 Quick Information</title>
+    <title>Covid-19 Information in Germany</title>
     <description>Provides quick information about Covid-19 in Germany and India
 </description>
-    <link>http://localhost:4000/academic-portfolio/</link>
-    <atom:link href="http://localhost:4000/academic-portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Mar 2020 22:03:00 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2020 22:03:00 +0530</lastBuildDate>
+    <link>http://localhost:4000/covid19/</link>
+    <atom:link href="http://localhost:4000/covid19/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Mar 2020 10:04:03 +0530</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2020 10:04:03 +0530</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -85,8 +85,8 @@ J_{TAR}=\beta L_2\left(\textbf{D}_l^t\odot\left(h_l^t - h_l^{t-1}\right)\right)&
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 20:40:00 +0530</pubDate>
-        <link>http://localhost:4000/academic-portfolio/blog/2018/01/post-1</link>
-        <guid isPermaLink="true">http://localhost:4000/academic-portfolio/blog/2018/01/post-1</guid>
+        <link>http://localhost:4000/covid19/blog/2018/01/post-1</link>
+        <guid isPermaLink="true">http://localhost:4000/covid19/blog/2018/01/post-1</guid>
         
         
         <category>rnn</category>
@@ -143,8 +143,8 @@ Gradients clipped at &lt;code class=&quot;highlighter-rouge&quot;&gt;10&lt;/code
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 20:31:00 +0530</pubDate>
-        <link>http://localhost:4000/academic-portfolio/blog/2018/01/post-2</link>
-        <guid isPermaLink="true">http://localhost:4000/academic-portfolio/blog/2018/01/post-2</guid>
+        <link>http://localhost:4000/covid19/blog/2018/01/post-2</link>
+        <guid isPermaLink="true">http://localhost:4000/covid19/blog/2018/01/post-2</guid>
         
         
         <category>rnn</category>
